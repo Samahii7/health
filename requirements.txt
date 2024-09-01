@@ -1,5 +1,4 @@
 flask
-json
 textblob
 difflib
 re
